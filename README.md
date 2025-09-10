@@ -106,12 +106,12 @@ Guessed letters: A, E, P
 
 ##  Game Features
 
-- ✅ **Input Validation**: Ensures only single letters are accepted
-- ✅ **Duplicate Detection**: Prevents counting repeated guesses as wrong
-- ✅ **Case Handling**: Converts all input to uppercase for consistency
-- ✅ **Progress Display**: Shows word progress, wrong guess count, and guessed letters
-- ✅ **Clear Win/Lose Conditions**: Game ends appropriately with clear messages
-- ✅ **Error Handling**: Handles invalid input gracefully
+-  **Input Validation**: Ensures only single letters are accepted
+-  **Duplicate Detection**: Prevents counting repeated guesses as wrong
+-  **Case Handling**: Converts all input to uppercase for consistency
+-  **Progress Display**: Shows word progress, wrong guess count, and guessed letters
+-  **Clear Win/Lose Conditions**: Game ends appropriately with clear messages
+-  **Error Handling**: Handles invalid input gracefully
 
 ##  Game Statistics
 
@@ -123,16 +123,16 @@ Guessed letters: A, E, P
 
 ##  Future Enhancements
 
-- [ ] Add more words to increase variety
-- [ ] Implement difficulty levels (word length based)
-- [ ] Add ASCII hangman drawing for visual feedback
-- [ ] Include word categories (animals, colors, etc.)
-- [ ] Add scoring system based on remaining attempts
-- [ ] Implement play again functionality
-- [ ] Add hints feature
-- [ ] Create word list file for easy expansion
+-  Add more words to increase variety
+-  Implement difficulty levels (word length based)
+-  Add ASCII hangman drawing for visual feedback
+-  Include word categories (animals, colors, etc.)
+-  Add scoring system based on remaining attempts
+-  Implement play again functionality
+-  Add hints feature
+-  Create word list file for easy expansion
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this project and submit improvements! Some areas for contribution:
 - Expanding the word list
@@ -148,7 +148,7 @@ The game follows a clear structure:
 3. **Game Loop**: Handle input, process guesses, update display, check conditions
 4. **End Game**: Display win/lose message with the secret word
 
-## 👨‍💻 Author
+##  Author
 
 **Your Name**
 - GitHub: AyzaAshfaq1618
